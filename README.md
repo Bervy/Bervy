@@ -13,3 +13,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bervy&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bervy&theme=radical)
+
+- 📫 How to reach me: vv.osipov@yandex-osipov.ru
+ 
