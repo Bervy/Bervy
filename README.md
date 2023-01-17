@@ -14,4 +14,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bervy)](https://github.com/anuraghazra/github-readme-stats)
 
       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bervy&theme=zenburn)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bervy&show_icons=true&theme=radical)
