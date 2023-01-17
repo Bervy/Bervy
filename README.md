@@ -13,4 +13,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bervy&show_icons=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bervy)
 
-<h1 align="left">Ｈｏｗ ｔｏ ｒｅａｃｈ ｍｅ： ｖｖ．ｏｓｉｐｏｖ＠ｙａｎｄｅｘ－ｏｓｉｐｏｖ．ｒｕ</h1>
+- 📫 How to reach me: vv.osipov@yandex-osipov.ru
