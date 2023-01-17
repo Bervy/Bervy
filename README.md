@@ -8,14 +8,12 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-      
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bervy)](https://github.com/ryo-ma/github-profile-trophy)
-      
-      
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bervy)](https://git.io/streak-stats)
-      
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bervy&theme=zenburn)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bervy&theme=zenburn)
+                  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bervy)](https://github.com/anuraghazra/github-readme-stats)
+
       
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bervy)](https://github.com/anuraghazra/github-readme-stats)
-      
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bervy&theme=solarized_dark)
