@@ -11,16 +11,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bervy&theme=zenburn)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bervy&theme=zenburn)
-                  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bervy)](https://github.com/anuraghazra/github-readme-stats)
 
       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bervy)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![](https://raw.githubusercontent.com/Bervy/github-profile-summary-cards-example/master/profile-summary-card-output/zenburn/0-profile-details.svg)](https://github.com/Bervy/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/Bervy/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/Bervy/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/Bervy/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/zenburn/4-productive-time.svg)](https://github.com/Bervy/github-profile-summary-cards)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bervy&theme=zenburn)](https://github.com/anuraghazra/github-readme-stats)
