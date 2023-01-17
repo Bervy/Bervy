@@ -1,6 +1,6 @@
-<h1 align="center">𝐻𝒾 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 <a href="https://daniilshat.ru/" target="_blank">𝒱𝓁𝒶𝒹𝒾𝓈𝓁𝒶𝓋</a> 
+<h1 align="center" height="32">𝐻𝒾 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 <a href="https://daniilshat.ru/" target="_blank">𝒱𝓁𝒶𝒹𝒾𝓈𝓁𝒶𝓋</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">𝒥𝒶𝓋𝒶 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇</h3>
+<h3 align="center">𝓙𝓪𝓿𝓪 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 My Skills:
