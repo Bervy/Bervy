@@ -1,8 +1,7 @@
-<h1 align="center">Ｈｉ ｔｈｅｒｅ， Ｉ＇ｍ  Ｖｌａｄｉｓｌａｖ
+<h1 align="center">Ｈｉ ｔｈｅｒｅ， Ｉ＇ｍ    Ｖｌａｄｉｓｌａｖ
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Ｊａｖａ Ｄｅｖｅｌｏｐｅｒ</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java developer with experience in implementing projects in the process of learning)](https://git.io/typing-svg)
 
 <h1 align="left">Ｍｙ ｓｋｉｌｌｓ:</h1>
 
