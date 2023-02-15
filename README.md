@@ -12,4 +12,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bervy)
 
-- 📫 How to reach me: vv.osipov@yandex-osipov.ru
+- 📫 How to reach me: vv.osipov@yandex-osipov.ru, <a href="https://www.linkedin.com/in/vladislav-osipov-ab1863250/" target="_blank">LinkedIn</a>
